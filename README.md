@@ -29,17 +29,18 @@ To start blocking users:
 1. Click on the extension icon in the Chrome toolbar.
 2. Click "Start Blocking".
 3. Watch as celebrities that don't care about you or Palestinians get blocked.
+4. Disable plugin when done, otherwise it will block accounts opened in new tabs.
 
 ## Step 4: Adding more accounts to block (optional)
 To add more accounts edit the userList.json file.
 
-
 ## Troubleshooting
+
 If you encounter issues:
 
-Ensure you have the latest version of Google Chrome.
-Check if the Developer Mode is enabled in the Extensions menu.
-Restart Chrome and try loading the extension again.
+1. Ensure you have the latest version of Google Chrome.
+2. Check if the Developer Mode is enabled in the Extensions menu.
+3. Restart Chrome and try loading the extension again.
 
 Contributions
 Contributions are welcome! If you have improvements or bug fixes, please fork the repository and submit a pull request.
