@@ -20,7 +20,7 @@ Google Chrome browser installed on your computer.
 
 ## Step 3: Usage
 To start blocking users:
-
+![image](https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/bc435ae2-4cae-4e71-913d-378329d90edb)
 1. Click on the extension icon in the Chrome toolbar.
 2. Click "Start Blocking".
 3. Watch as celebrities that don't care about you or Palestinians get blocked.
