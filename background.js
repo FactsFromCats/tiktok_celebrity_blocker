@@ -7,7 +7,7 @@ function fetchUserList() {
 }
 
 function processUsersSequentially(users) {
-    const delayBetweenUsers = 100; // Delay in milliseconds
+    const delayBetweenUsers = 1; // Delay in milliseconds
 
     users.reduce((promise, userUrl) => {
         return promise.then(() => {
