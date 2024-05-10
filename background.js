@@ -1,5 +1,5 @@
 function fetchUserList() {
-    const url = chrome.runtime.getURL('userList.json');  // Adjust if fetching from an external URL
+    const url = chrome.runtime.getURL('blockList.json');  // Adjust if fetching from an external URL
     fetch(url)
         .then(response => response.json())
         .then(users => processUsersSequentially(users))

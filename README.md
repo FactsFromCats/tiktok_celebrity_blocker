@@ -28,7 +28,7 @@ To start blocking users:
 3. Watch as celebrities that don't care about you or Palestinians get blocked.
 
 ## Step 4: Adding more accounts to block (optional)
-To add more accounts edit the userList.json file.
+To add more accounts edit the blockList.json file.
 
 
 ## Troubleshooting
