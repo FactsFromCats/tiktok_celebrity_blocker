@@ -4,11 +4,12 @@ A Chrome plugin that blocks over 100 celebrities & brands who have been silent o
 https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/67a213ea-73f4-4aff-9e72-aa422474bf43
 
 ## Installation Instructions
-To install the TikTok Blocker Chrome Extension from GitHub, follow these steps:
+To install the TikTok Celebrity Blocker Chrome Extension follow these steps:
 
 ## Prerequisites
 Google Chrome browser installed on your computer.
-##Step 1: Download the Extension
+
+## Step 1: Download the Extension
 1. Navigate to the GitHub repository: [https://github.com/FactsFromCats/tiktok_celebrity_blocker]
 2. Click on the Code button and then select Download ZIP.
 3. Unzip the downloaded file to a preferred location on your computer.
