@@ -43,6 +43,6 @@ If you encounter issues:
 2. Check if the Developer Mode is enabled in the Extensions menu.
 3. Restart Chrome and try loading the extension again.
 
-Contributions
+## Contributions
 Contributions are welcome! If you have improvements or bug fixes, please fork the repository and submit a pull request.
 
