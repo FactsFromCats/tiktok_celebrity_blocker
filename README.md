@@ -44,5 +44,5 @@ If you encounter issues:
 3. Restart Chrome and try loading the extension again.
 
 ## Contributions
-Contributions are welcome! If you have improvements or bug fixes, please fork the repository and submit a pull request.
+Contributions are welcome! If you want to expand the block list, have improvements,  or bug fixes, please fork the repository and submit a pull request.
 
