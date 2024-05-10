@@ -1,5 +1,5 @@
 # tiktok_celebrity_blocker
-A Chrome plugin that blocks celebrities who have been silent or have expressed support for Israel
+A Chrome plugin that blocks over 100 celebrities & brands who have been silent or have expressed support for Israel
 
 ## Installation Instructions
 To install the TikTok Blocker Chrome Extension from GitHub, follow these steps:
