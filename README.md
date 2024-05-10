@@ -1,15 +1,12 @@
 # tiktok_celebrity_blocker
-A Chrome plugin that automatically blocks over 100 celebrities & brands who have been silent or have expressed support for Israel. Save time and clicks with this free chrome extension. Liberty & justice for Palestine!
-
-https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/f4cc6cd0-0c45-4823-8b87-5612535900ee
+A Chrome plugin that blocks celebrities who have been silent or have expressed support for Israel
 
 ## Installation Instructions
-To install the TikTok Celebrity Blocker Chrome Extension follow these steps:
+To install the TikTok Blocker Chrome Extension from GitHub, follow these steps:
 
 ## Prerequisites
 Google Chrome browser installed on your computer.
-
-## Step 1: Download the Extension
+##Step 1: Download the Extension
 1. Navigate to the GitHub repository: [https://github.com/FactsFromCats/tiktok_celebrity_blocker]
 2. Click on the Code button and then select Download ZIP.
 3. Unzip the downloaded file to a preferred location on your computer.
@@ -26,23 +23,21 @@ Google Chrome browser installed on your computer.
 ![image](https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/cbfdcbef-18c9-4d09-9727-9ed48999ff26)
 
 To start blocking users:
-1. Make sure you're logged into TikTok
-2. Click on the extension icon in the Chrome toolbar.
-3. Click "Start Blocking".
-4. Watch as celebrities that don't care about you or Palestinians get blocked.
-5. Disable plugin when done, otherwise it will block accounts opened in new tabs.
+1. Click on the extension icon in the Chrome toolbar.
+2. Click "Start Blocking".
+3. Watch as celebrities that don't care about you or Palestinians get blocked.
 
 ## Step 4: Adding more accounts to block (optional)
 To add more accounts edit the userList.json file.
 
-## Troubleshooting
 
+## Troubleshooting
 If you encounter issues:
 
-1. Ensure you have the latest version of Google Chrome.
-2. Check if the Developer Mode is enabled in the Extensions menu.
-3. Restart Chrome and try loading the extension again.
+Ensure you have the latest version of Google Chrome.
+Check if the Developer Mode is enabled in the Extensions menu.
+Restart Chrome and try loading the extension again.
 
-## Contributions
-Contributions are welcome! If you want to expand the block list, have improvements,  or bug fixes, please fork the repository and submit a pull request.
+Contributions
+Contributions are welcome! If you have improvements or bug fixes, please fork the repository and submit a pull request.
 

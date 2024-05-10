@@ -16,13 +16,17 @@ window.onload = () => {
                     const confirmBlockButton = document.querySelector('button[data-e2e="block-popup-block-btn"]');
                     if (confirmBlockButton) {
                         confirmBlockButton.click();
-                        location.reload();
+
+                        // Wait 1 second before reloading the page
+                        setTimeout(() => {
+                            location.reload();
+                        }, 1000); // 1 second delay before reloading the page
                     } else {
                         console.error('Confirmation block button not found');
                     }
                 }, 500); // Adjust this timeout based on how quickly the modal appears
             } else {
-                //console.error('Actual block button not found');
+                console.error('Actual block button not found');
             }
         }, 500); // Adjust timeout as needed based on how quickly the menu appears
     } catch (error) {
