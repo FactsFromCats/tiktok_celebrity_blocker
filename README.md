@@ -30,6 +30,7 @@ To start blocking users:
 ## Step 4: Adding more accounts to block (optional)
 To add more accounts edit the blockList.json file.
 
+Submit tiktok accounts to include in the blockLIst to https://www.tiktok.com/@factsfromcats or submit a pull request with your list.
 
 ## Troubleshooting
 If you encounter issues:
@@ -40,8 +41,6 @@ Restart Chrome and try loading the extension again.
 
 ## Contributions
 Contributions are welcome! 
-
-Submit tiktok accounts to include in the blockLIst to https://www.tiktok.com/@factsfromcats or submit a pull request with your list.
 
 If you have improvements or bug fixes, please fork the repository and submit a pull request.
 
