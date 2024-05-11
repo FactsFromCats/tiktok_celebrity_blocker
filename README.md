@@ -22,7 +22,7 @@ Google Chrome browser installed on your computer.
 
 ## Step 3: Usage
 
-![image](https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/cbfdcbef-18c9-4d09-9727-9ed48999ff26)
+![image](https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/fe822391-9911-476b-a312-7f097351917e)
 
 To start blocking users:
 1. Click on the extension icon in the Chrome toolbar.
