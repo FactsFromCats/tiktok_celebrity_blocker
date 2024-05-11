@@ -8,7 +8,7 @@ To install the TikTok Blocker Chrome Extension from GitHub, follow these steps:
 Google Chrome browser installed on your computer.
 ##Step 1: Download the Extension
 1. Navigate to the GitHub repository: [https://github.com/FactsFromCats/tiktok_celebrity_blocker]
-2. Click on the Code button and then select Download ZIP.
+2. Click on the green Code button and then select Download ZIP.
 3. Unzip the downloaded file to a preferred location on your computer.
 
 ## Step 2: Load the Extension into Chrome
@@ -38,6 +38,10 @@ Ensure you have the latest version of Google Chrome.
 Check if the Developer Mode is enabled in the Extensions menu.
 Restart Chrome and try loading the extension again.
 
-Contributions
-Contributions are welcome! If you have improvements or bug fixes, please fork the repository and submit a pull request.
+## Contributions
+Contributions are welcome! 
+
+Submit tiktok accounts to include in the blockLIst to https://www.tiktok.com/@factsfromcats or submit a pull request with your list.
+
+If you have improvements or bug fixes, please fork the repository and submit a pull request.
 
