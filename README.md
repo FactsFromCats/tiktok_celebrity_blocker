@@ -3,6 +3,9 @@ A Chrome extension that automatically blocks celebrities who have been silent or
 
 If you want to help expand the list please reach out here or at https://www.tiktok.com/@factsfromcats
 
+https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/a7b304da-750a-4ef4-b966-3bc57cc8fce4
+
+
 ## Installation Instructions
 To install the TikTok Blocker Chrome Extension from GitHub, follow these steps:
 
