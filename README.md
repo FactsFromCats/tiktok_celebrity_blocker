@@ -1,7 +1,7 @@
 # TikTok Celebrity Blocker Chrome Extension
-A Chrome extension that automatically blocks celebrities who have been silent or have expressed support for Israel. This chrome plugin iterates through a list of TikTok accounts and blocks them, one by one.
+A Chrome extension that automatically blocks celebrities who have been silent or have expressed support for Israel. This chrome plugin iterates through a [list](https://github.com/FactsFromCats/tiktok_celebrity_blocker/blob/main/blockList.json) of TikTok accounts and blocks them, one by one.
 
-If you want to help expand the list please update blockList.json and submit a pull request, or send them to https://www.tiktok.com/@factsfromcats
+If you want to help expand the list please update [blockList.json](https://github.com/FactsFromCats/tiktok_celebrity_blocker/blob/main/blockList.json) and submit a pull request, or send them to https://www.tiktok.com/@factsfromcats
 
 https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/a7b304da-750a-4ef4-b966-3bc57cc8fce4
 
@@ -33,7 +33,7 @@ To start blocking users:
 3. Watch as celebrities that don't care about you or Palestinians get blocked.
 
 ## Step 4: Adding more accounts to block (optional)
-To add more accounts edit the blockList.json file.
+To add more accounts edit the [blockList.json file](https://github.com/FactsFromCats/tiktok_celebrity_blocker/blob/main/blockList.json).
 
 Submit tiktok accounts to include in the blockLIst to https://www.tiktok.com/@factsfromcats or submit a pull request with your list.
 
