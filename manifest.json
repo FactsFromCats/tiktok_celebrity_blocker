@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Celebrity & Brand Auto-Blocker for TikTok #blockout",
   "version": "1.04",
-  "host_permissions": [ "https://*.tiktok.com/*" ],
+  "host_permissions": [ "https://*.instagram.com/*", "https://*.tiktok.com/*" ],
   "permissions": ["tabs", "scripting", "storage"],
   "background": {
     "service_worker": "background.js"
