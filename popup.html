@@ -1,13 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>TikTok Blocker</title>
-</head>
-<body>
-  <h1>Celebrity Blocker</h1>
-  <button id="startBlocking">Start Blocking</button>
-  <script src="popup.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Instagram Blocker</title>
+  </head>
+  <body>
+    <style>
+      html {
+        height: 200px;
+        width: 300px;
+      }
+      body {
+        display: grid;
+        place-content: center;
+        background-color: red;
+      }
+      .container {
+        display: flex;
+        flex-direction: column;
+        gap: 1rem;
+      }
+      h1 {
+        text-transform: capitalize;
+        color: white;
+      }
+      button {
+        display: block;
+        background-color: rgb(255, 255, 255);
+        color: black;
+        border: 2px solid black;
+        border-radius: 100vw;
+        padding: 0.9rem;
+        text-transform: uppercase;
+        transition: all 0.1s ease-in-out;
+      }
+      button:hover {
+        transform: scale(0.975);
+        cursor: pointer;
+      }
+    </style>
+    <div class="container">
+      <h1>Celebrity & Brand Blocker</h1>
+      <button id="startBlocking">Start Blocking</button>
+    </div>
+    <script src="popup.js"></script>
+  </body>
 </html>

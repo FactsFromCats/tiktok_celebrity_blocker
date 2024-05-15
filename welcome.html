@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Welcome</title>
+  </head>
+  <body>
+    <style>
+      @font-face {
+        font-family: "nunito";
+        src: url("./font/Nunito\ font.ttf") format("truetype");
+      }
+      * {
+        font-family: nunito;
+      }
+
+      body {
+        display: grid;
+        place-content: center;
+        font-size: 1.25rem;
+      }
+      h1 {
+        font-size: 2.5rem;
+      }
+      .welcome-text {
+        text-align: justify;
+        width: 70ch;
+        line-height: 2rem;
+        margin-bottom: 2rem;
+      }
+
+      ul {
+        list-style: none;
+        counter-reset: my-counter;
+        margin-bottom: 2rem;
+      }
+
+      li {
+        counter-increment: my-counter;
+        width: 70ch;
+      }
+
+      li:before {
+        content: counter(my-counter) ". ";
+      }
+      p.moreinfo {
+        width: 70ch;
+        line-height: 2rem;
+        margin-bottom: 2rem;
+      }
+    </style>
+    <div class="main-container">
+      <h1>Celebrity & Brand Auto-Blocker for IG & TikTok #blockout</h1>
+      <p class="welcome-text">
+        You have installed the Celebrity & Brand Auto-Blocker for Instagram and Tiktok. With this extension, you can effortlessly block over  celebrities and brands that have either supported Israel or have been silent. <BR><BR>
+
+        This extension makes it easy to block thousands of celebrites and brands who have either expressed support for Israel or remained silent about the ongoing genocide of Palestinian people. They don't care about you or Palestinian children who are being murdered by the thousands. <BR><BR>
+        
+        Even if you don't follow them, their content and ads may reach you. Prevent that from happening and stop giving them your attention by blocking them today.
+
+      </p>
+      <div>
+        <h2>Usage</h2>
+        <ul>
+          <li>Click on the extensions icon, top right corner of Chrome.
+            <img src="./images/extension_icon.png" alt="" />
+          </li>
+          <li>
+            Click on the blocker icon.
+            <img src="./images/icon16.png" alt="" />
+          </li>
+          <li>Click on start blocking.</li>
+          <li>Watch as thousands of celebrity & brand accounts get blocked. This will take some time.</li>
+        </ul>
+        <p class="moreinfo">
+          Free Palestine, Free Congo, Free Sudan, Liberty & Justice for all.
+        </p>
+        <p class="moreinfo">
+          <a href="https://bdsmovement.net/">Boycott & Divest Israel</href>
+        </p>
+      </div>
+    </div>
+  </body>
+</html>

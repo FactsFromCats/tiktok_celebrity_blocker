@@ -1,32 +1,23 @@
 {
-    "manifest_version": 3,
-    "name": "TikTok Celebrity Blocker",
-    "version": "1.0",
-    "host_permissions": ["http://*/*", "https://*/*"],
-    "background": {
-      "service_worker": "background.js"
-    },
-    "content_scripts": [
-      {
-        "matches": ["https://www.tiktok.com/*"],
-        "js": ["contentScript.js"]
-      }
-    ],
-    "action": {
-      "default_popup": "popup.html",
-      "default_icon": {
-        "16": "images/icon16.png",
-        "48": "images/icon48.png",
-        "128": "images/icon128.png"
-      }
-    },
-    "icons": {
+  "manifest_version": 3,
+  "name": "Celebrity & Brand Auto-Blocker for TikTok #blockout",
+  "version": "1.04",
+  "host_permissions": [ "https://*.tiktok.com/*" ],
+  "permissions": ["tabs", "scripting", "storage"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
       "16": "images/icon16.png",
       "48": "images/icon48.png",
       "128": "images/icon128.png"
-    },
-    "permissions": [
-        "notifications"
-    ]
+    }
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
   }
-  
+}
