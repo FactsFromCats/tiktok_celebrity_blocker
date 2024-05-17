@@ -2,8 +2,8 @@
 
 ![github_banner](https://github.com/FactsFromCats/tiktok_celebrity_blocker/assets/169418602/44609ef4-6d12-41c5-b885-8f2555066d28)
 
-[Click for Free install at Google Chrome Web Store](https://chromewebstore.google.com/detail/tiktok-celebrity-blocker/gjlpoampikdnneonedjjgofgcgihkpoo)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[Click for Free install at Google Chrome Web Store]([https://chromewebstore.google.com/detail/tiktok-celebrity-blocker/gjlpoampikdnneonedjjgofgcgihkpoo](https://chromewebstore.google.com/detail/blockout-celebrity-brand/pjeamocjemecehemagkegljddegedafo))
+
 
 The Celebrity Blocker for TikTok is a Chrome extension that allows you to block over 200 celebrities who have expressed support for Israel or remained silent about the ongoing genocide of Palestinian people. Customize your TikTok feed and focus on content that matters to you.
 
@@ -15,7 +15,7 @@ The Celebrity Blocker for TikTok is a Chrome extension that allows you to block 
 
 ## Installation
 
-The extension is available on the Chrome Web Store. [Install Celebrity Blocker for TikTok](https://chromewebstore.google.com/detail/tiktok-celebrity-blocker/gjlpoampikdnneonedjjgofgcgihkpoo)
+The extension is available on the Chrome Web Store. [Install Celebrity Blocker for TikTok](https://chromewebstore.google.com/detail/blockout-celebrity-brand/pjeamocjemecehemagkegljddegedafo)
 
 ## Usage
 
